@@ -1,0 +1,114 @@
+/* ── Fonts ── */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=DM+Mono:wght@400;500&display=swap');
+
+/* ── Theme tokens ── */
+:root {
+  /* Dark mode (default) */
+  --bg:           #0f1117;
+  --bg-surface:   #1a1d27;
+  --bg-hover:     #22263a;
+  --border:       #2e3248;
+  --text-primary: #e8eaf0;
+  --text-secondary: #8b90a8;
+  --text-jp:      #f0f2ff;
+  --accent:       #7c9dff;
+  --accent-muted: #3a4a7a;
+  --tag-bg:       #1e2440;
+  --tag-text:     #7c9dff;
+  --note-bg:      #1e2a1e;
+  --note-border:  #3a6b3a;
+  --note-text:    #8fbd8f;
+  --toggle-bg:    #2e3248;
+  --shadow:       0 2px 12px rgba(0,0,0,0.4);
+}
+
+html.light {
+  --bg:           #f5f6fa;
+  --bg-surface:   #ffffff;
+  --bg-hover:     #eef0f8;
+  --border:       #dde0f0;
+  --text-primary: #1a1d2e;
+  --text-secondary: #6b708a;
+  --text-jp:      #0f1020;
+  --accent:       #3a5fd9;
+  --accent-muted: #d0d8f8;
+  --tag-bg:       #e8ecf8;
+  --tag-text:     #3a5fd9;
+  --note-bg:      #f0faf0;
+  --note-border:  #80c080;
+  --note-text:    #2d6b2d;
+  --toggle-bg:    #dde0f0;
+  --shadow:       0 2px 12px rgba(0,0,0,0.08);
+}
+
+/* ── Reset & base ── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text-primary);
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  min-height: 100vh;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* ── Typography ── */
+h1, h2, h3 {
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--text-primary);
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ── Furigana ── */
+ruby {
+  ruby-align: center;
+}
+
+rt {
+  font-size: 0.55em;
+  color: var(--text-secondary);
+  font-weight: 400;
+  transition: opacity 0.2s ease;
+}
+
+html.hide-furigana rt {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* ── Layout ── */
+.container {
+  width: 100%;
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* ── Utility ── */
+.mono {
+  font-family: 'DM Mono', monospace;
+}
+
+.text-secondary {
+  color: var(--text-secondary);
+}

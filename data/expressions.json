@@ -1,0 +1,506 @@
+{
+  "title": "Expressions",
+  "description": "Common Japanese expressions grouped by pattern.",
+  "categories": [
+    {
+      "category": "気 Expressions",
+      "entries": [
+        {
+          "expression": "[気|き]になる",
+          "meaning": "to be curious about / to be on one's mind",
+          "examples": [
+            {
+              "jp": "あの[映画|えいが]がずっと[気|き]になっている。",
+              "en": "That movie has been on my mind."
+            },
+            {
+              "jp": "[彼|かれ]の[言葉|ことば]がどうしても[気|き]になる。",
+              "en": "His words just keep bothering me."
+            },
+            {
+              "jp": "[新|あたら]しいレストランが[気|き]になって、[調|しら]べてみた。",
+              "en": "I was curious about the new restaurant so I looked it up."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[気|き]にする",
+          "meaning": "to worry about / to mind",
+          "examples": [
+            {
+              "jp": "そんなこと[気|き]にしないでください。",
+              "en": "Please don't worry about that."
+            },
+            {
+              "jp": "[他人|たにん]の[目|め]を[気|き]にしすぎている。",
+              "en": "You're worrying too much about what others think."
+            },
+            {
+              "jp": "[少|すこ]しのミスをいつまでも[気|き]にするタイプです。",
+              "en": "I'm the type to dwell on even small mistakes."
+            }
+          ],
+          "notes": "気になる is passive - something naturally catches your attention. 気にする is active - you choose to dwell on or worry about something."
+        },
+        {
+          "expression": "[気|き]をつける",
+          "meaning": "to be careful / to watch out",
+          "examples": [
+            {
+              "jp": "[足元|あしもと]に[気|き]をつけてください。",
+              "en": "Please watch your step."
+            },
+            {
+              "jp": "[風邪|かぜ]が[流行|はや]っているので[気|き]をつけてね。",
+              "en": "There's a cold going around, so take care."
+            },
+            {
+              "jp": "[言葉|ことば]づかいに[気|き]をつけなさい。",
+              "en": "Watch how you speak."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[気|き]がつく",
+          "meaning": "to notice / to realize",
+          "examples": [
+            {
+              "jp": "[財布|さいふ]を[忘|わす]れたことに[気|き]がついた。",
+              "en": "I realized I had forgotten my wallet."
+            },
+            {
+              "jp": "[気|き]がついたら[深夜|しんや]になっていた。",
+              "en": "Before I knew it, it was the middle of the night."
+            },
+            {
+              "jp": "[彼女|かのじょ]は[細|こま]かいことによく[気|き]がつく[人|ひと]だ。",
+              "en": "She's someone who notices even the small details."
+            }
+          ],
+          "notes": "気がつく is about suddenly noticing something. 気をつける is about actively maintaining attention beforehand."
+        },
+        {
+          "expression": "[気|き]がする",
+          "meaning": "to have a feeling that / to feel like",
+          "examples": [
+            {
+              "jp": "なんか[雨|あめ]が[降|ふ]りそうな[気|き]がする。",
+              "en": "I have a feeling it's going to rain."
+            },
+            {
+              "jp": "どこかで[会|あ]ったことがある[気|き]がする。",
+              "en": "I have a feeling we've met somewhere before."
+            },
+            {
+              "jp": "うまくいくような[気|き]がします。",
+              "en": "I have a feeling it will work out."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[気|き]に[入|い]る",
+          "meaning": "to like / to take a liking to",
+          "examples": [
+            {
+              "jp": "このカフェがとても[気|き]に[入|い]った。",
+              "en": "I really took a liking to this café."
+            },
+            {
+              "jp": "プレゼントを[気|き]に[入|い]ってもらえてよかった。",
+              "en": "I'm glad they liked the gift."
+            },
+            {
+              "jp": "この[色|いろ]がいちばん[気|き]に[入|い]っています。",
+              "en": "This colour is my favourite."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[気|き]が[合|あ]う",
+          "meaning": "to get along well / to click with someone",
+          "examples": [
+            {
+              "jp": "[彼女|かのじょ]とはすぐ[気|き]が[合|あ]った。",
+              "en": "I clicked with her right away."
+            },
+            {
+              "jp": "[二人|ふたり]は[性格|せいかく]が[違|ちが]うけど[気|き]が[合|あ]う。",
+              "en": "The two have different personalities but they get along well."
+            },
+            {
+              "jp": "[気|き]が[合|あ]う[友達|ともだち]と[旅行|りょこう]するのが[一番|いちばん]楽しい。",
+              "en": "Travelling with friends you click with is the most fun."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[気|き]を[遣|つか]う",
+          "meaning": "to be considerate / to go out of one's way for others",
+          "examples": [
+            {
+              "jp": "[気|き]を[遣|つか]わないでください。",
+              "en": "Please don't go out of your way for me."
+            },
+            {
+              "jp": "[彼|かれ]はいつも[周|まわ]りに[気|き]を[遣|つか]っている。",
+              "en": "He is always considerate of those around him."
+            },
+            {
+              "jp": "[初|はじ]めての[場所|ばしょ]では[気|き]を[遣|つか]って[疲|つか]れてしまう。",
+              "en": "I get tired from being on edge in unfamiliar places."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "やる[気|き]がある",
+          "meaning": "to be motivated / to have drive",
+          "examples": [
+            {
+              "jp": "やる[気|き]がある[人|ひと]を[探|さが]しています。",
+              "en": "We are looking for motivated people."
+            },
+            {
+              "jp": "[最近|さいきん]やる[気|き]がなくて[困|こま]っている。",
+              "en": "I've been struggling lately because I have no motivation."
+            },
+            {
+              "jp": "やる[気|き]があるときに[一気|いっき]に[終|お]わらせた。",
+              "en": "I finished it all at once when I was in the mood."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[気|き]が[向|む]く",
+          "meaning": "to feel like doing something / to be in the mood",
+          "examples": [
+            {
+              "jp": "[気|き]が[向|む]いたら[連絡|れんらく]してください。",
+              "en": "Contact me whenever you feel like it."
+            },
+            {
+              "jp": "[気|き]が[向|む]いたときしか[料理|りょうり]しない。",
+              "en": "I only cook when I feel like it."
+            },
+            {
+              "jp": "[気|き]が[向|む]かないときは[無理|むり]しなくていい。",
+              "en": "You don't have to push yourself when you're not in the mood."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[気|き]が[早|はや]い",
+          "meaning": "to be hasty / to jump ahead",
+          "examples": [
+            {
+              "jp": "まだ[決|き]まってもいないのに、[気|き]が[早|はや]いね。",
+              "en": "Nothing has been decided yet - you're getting ahead of yourself."
+            },
+            {
+              "jp": "[結果|けっか]も[出|で]ていないのに[喜|よろこ]ぶのは[気|き]が[早|はや]い。",
+              "en": "It's too soon to celebrate when the results aren't even out yet."
+            },
+            {
+              "jp": "[彼|かれ]は[気|き]が[早|はや]くて、すぐに[次|つぎ]のことを[考|かんが]える。",
+              "en": "He's always jumping ahead and thinking about the next thing."
+            }
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "category": "〜がする (Perception)",
+      "entries": [
+        {
+          "expression": "[味|あじ]がする",
+          "meaning": "to taste like / to have a flavor",
+          "examples": [
+            {
+              "jp": "このスープは[変|へん]な[味|あじ]がする。",
+              "en": "This soup has a strange taste."
+            },
+            {
+              "jp": "このケーキはバニラの[味|あじ]がする。",
+              "en": "This cake tastes like vanilla."
+            },
+            {
+              "jp": "[薬|くすり]を[飲|の]んだ[後|あと]、[口|くち]の[中|なか]に[苦|にが]い[味|あじ]がする。",
+              "en": "After taking the medicine, there's a bitter taste in my mouth."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[匂|にお]いがする",
+          "meaning": "to smell like / to have a scent",
+          "examples": [
+            {
+              "jp": "コーヒーのいい[匂|にお]いがする。",
+              "en": "I smell a nice coffee aroma."
+            },
+            {
+              "jp": "[焦|こ]げた[匂|にお]いがするけど、[大丈夫|だいじょうぶ]？",
+              "en": "I smell something burning - is everything okay?"
+            },
+            {
+              "jp": "[花|はな]のいい[匂|にお]いがして[気持|きも]ちよかった。",
+              "en": "There was a pleasant floral scent and it felt nice."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[音|おと]がする",
+          "meaning": "to make a sound / to hear a noise",
+          "examples": [
+            {
+              "jp": "[外|そと]で[変|へん]な[音|おと]がした。",
+              "en": "There was a strange noise outside."
+            },
+            {
+              "jp": "[床|ゆか]がきしむ[音|おと]がする。",
+              "en": "The floor is making a creaking sound."
+            },
+            {
+              "jp": "[胃|い]が[鳴|な]る[音|おと]がして[恥|は]ずかしかった。",
+              "en": "My stomach growled and it was embarrassing."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[声|こえ]がする",
+          "meaning": "to hear a voice",
+          "examples": [
+            {
+              "jp": "[隣|となり]の[部屋|へや]から[声|こえ]がする。",
+              "en": "I can hear a voice from the next room."
+            },
+            {
+              "jp": "[名前|なまえ]を[呼|よ]ぶ[声|こえ]がしたので[振|ふ]り[返|かえ]った。",
+              "en": "I heard a voice calling my name so I turned around."
+            },
+            {
+              "jp": "[深夜|しんや]に[外|そと]から[声|こえ]がして[目|め]が[覚|さ]めた。",
+              "en": "I woke up from a voice outside late at night."
+            }
+          ],
+          "notes": "音がする refers to any sound or noise. 声がする is specifically a human voice."
+        },
+        {
+          "expression": "[予感|よかん]がする",
+          "meaning": "to have a premonition / to have a feeling something will happen",
+          "examples": [
+            {
+              "jp": "なんか[嫌|いや]な[予感|よかん]がする。",
+              "en": "I have a bad feeling about this."
+            },
+            {
+              "jp": "うまくいくような[予感|よかん]がする。",
+              "en": "I have a feeling things will go well."
+            },
+            {
+              "jp": "[何|なに]か[起|お]きる[予感|よかん]がして[落|お]ち[着|つ]かない。",
+              "en": "I feel like something is going to happen and I can't settle down."
+            }
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "category": "Body & Physical State",
+      "entries": [
+        {
+          "expression": "お[腹|なか]が[空|す]く",
+          "meaning": "to get hungry",
+          "examples": [
+            {
+              "jp": "もうお[腹|なか]が[空|す]いた。",
+              "en": "I'm already hungry."
+            },
+            {
+              "jp": "[昼|ひる]を[食|た]べなかったのでお[腹|なか]がすごく[空|す]いた。",
+              "en": "I'm really hungry because I didn't eat lunch."
+            },
+            {
+              "jp": "[運動|うんどう]した[後|あと]はいつもお[腹|なか]が[空|す]く。",
+              "en": "I always get hungry after exercising."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[喉|のど]が[渇|かわ]く",
+          "meaning": "to get thirsty",
+          "examples": [
+            {
+              "jp": "[運動|うんどう]の[後|あと]は[喉|のど]が[渇|かわ]く。",
+              "en": "I get thirsty after exercising."
+            },
+            {
+              "jp": "[辛|から]いものを[食|た]べたら[喉|のど]が[渇|かわ]いた。",
+              "en": "I got thirsty after eating spicy food."
+            },
+            {
+              "jp": "[喉|のど]が[渇|かわ]いたので[水|みず]を[一杯|いっぱい][飲|の]んだ。",
+              "en": "I was thirsty so I drank a glass of water."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[目|め]が[覚|さ]める",
+          "meaning": "to wake up / to come to one's senses",
+          "examples": [
+            {
+              "jp": "[大|おお]きな[音|おと]で[目|め]が[覚|さ]めた。",
+              "en": "I woke up from a loud noise."
+            },
+            {
+              "jp": "[朝|あさ]は[目|め]が[覚|さ]めてもなかなか[起|お]き[上|あ]がれない。",
+              "en": "Even after waking up in the morning I can't get up easily."
+            },
+            {
+              "jp": "その[一言|ひとこと]で[目|め]が[覚|さ]める[思|おも]いがした。",
+              "en": "That one comment felt like a wake-up call."
+            }
+          ],
+          "notes": "Can also be used figuratively to mean a sudden realization or eye-opening moment."
+        },
+        {
+          "expression": "[頭|あたま]が[痛|いた]い",
+          "meaning": "to have a headache / to be troubled by something",
+          "examples": [
+            {
+              "jp": "この[問題|もんだい]は[本当|ほんとう]に[頭|あたま]が[痛|いた]い。",
+              "en": "This problem is a real headache."
+            },
+            {
+              "jp": "[昨日|きのう]から[頭|あたま]が[痛|いた]くて[薬|くすり]を[飲|の]んだ。",
+              "en": "My head has been hurting since yesterday so I took medicine."
+            },
+            {
+              "jp": "[予算|よさん]のことを[考|かんが]えると[頭|あたま]が[痛|いた]い。",
+              "en": "Thinking about the budget gives me a headache."
+            }
+          ],
+          "notes": "Used both literally for a headache and figuratively for a troublesome situation."
+        }
+      ]
+    },
+    {
+      "category": "Ability & Preference",
+      "entries": [
+        {
+          "expression": "〜が[得意|とくい]",
+          "meaning": "to be good at / to be skilled in",
+          "examples": [
+            {
+              "jp": "[彼|かれ]は[料理|りょうり]が[得意|とくい]です。",
+              "en": "He is good at cooking."
+            },
+            {
+              "jp": "[私|わたし]は[数学|すうがく]が[得意|とくい]ではない。",
+              "en": "I'm not good at math."
+            },
+            {
+              "jp": "[得意|とくい]なことを[仕事|しごと]にできたら[理想的|りそうてき]だ。",
+              "en": "It would be ideal to make a job out of what you're good at."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "〜が[苦手|にがて]",
+          "meaning": "to be bad at / to be uncomfortable with",
+          "examples": [
+            {
+              "jp": "[私|わたし]は[人前|ひとまえ]で[話|はな]すのが[苦手|にがて]です。",
+              "en": "I'm not good at speaking in front of people."
+            },
+            {
+              "jp": "[虫|むし]が[苦手|にがて]で、[見|み]るだけで[鳥肌|とりはだ]が[立|た]つ。",
+              "en": "I'm bad with bugs - just seeing them gives me goosebumps."
+            },
+            {
+              "jp": "[早起|はやお]きが[苦手|にがて]なので[毎朝|まいあさ][大変|たいへん]だ。",
+              "en": "Getting up early doesn't suit me so every morning is a struggle."
+            }
+          ],
+          "notes": "苦手 is softer than 下手. 下手 means objectively unskilled; 苦手 implies discomfort or that something doesn't suit you."
+        },
+        {
+          "expression": "〜に[慣|な]れる",
+          "meaning": "to get used to / to become accustomed to",
+          "examples": [
+            {
+              "jp": "やっと[新|あたら]しい[仕事|しごと]に[慣|な]れてきた。",
+              "en": "I've finally started getting used to the new job."
+            },
+            {
+              "jp": "[日本|にほん]の[生活|せいかつ]に[慣|な]れるまで[時間|じかん]がかかった。",
+              "en": "It took time to get used to life in Japan."
+            },
+            {
+              "jp": "[寒|さむ]さにはなかなか[慣|な]れない。",
+              "en": "I just can't seem to get used to the cold."
+            }
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "category": "Time & Effort",
+      "entries": [
+        {
+          "expression": "[時間|じかん]がかかる",
+          "meaning": "to take time",
+          "examples": [
+            {
+              "jp": "この[作業|さぎょう]は[時間|じかん]がかかる。",
+              "en": "This task takes time."
+            },
+            {
+              "jp": "[駅|えき]まで[歩|ある]くと[三十分|さんじゅっぷん][時間|じかん]がかかる。",
+              "en": "It takes 30 minutes to walk to the station."
+            },
+            {
+              "jp": "[上手|じょうず]になるには[時間|じかん]がかかるけど、[焦|あせ]らないで。",
+              "en": "Getting good at it takes time, so don't rush."
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "expression": "[手間|てま]がかかる",
+          "meaning": "to be time-consuming / to take effort",
+          "examples": [
+            {
+              "jp": "この[料理|りょうり]は[手間|てま]がかかるけど、おいしい。",
+              "en": "This dish takes a lot of effort, but it's delicious."
+            },
+            {
+              "jp": "[手間|てま]がかかる[作業|さぎょう]は[後回|あとまわ]しにしがちだ。",
+              "en": "I tend to put off tasks that take a lot of effort."
+            },
+            {
+              "jp": "[手間|てま]がかかっても、[丁寧|ていねい]にやることが[大切|たいせつ]だ。",
+              "en": "Even if it takes effort, doing things carefully is important."
+            }
+          ],
+          "notes": "時間がかかる is about time. 手間がかかる is about effort and trouble involved, not just the time spent."
+        }
+      ]
+    }
+  ]
+}

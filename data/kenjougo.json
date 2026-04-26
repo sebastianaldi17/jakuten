@@ -1,0 +1,126 @@
+{
+  "title": "Kenjougo (Humble)",
+  "description": "Kenjougo (謙譲語) is the humble register of keigo - you lower yourself in relation to the listener or the person you are speaking about.",
+  "entries": [
+    {
+      "kenjougo": "[参|まい]ります",
+      "verb": "行く / 来る",
+      "meaning": "to go / come",
+      "examples": [
+        { "jp": "[明日|あした]そちらへ[参|まい]ります。", "en": "I will come there tomorrow." },
+        { "jp": "ただ[今|いま][参|まい]ります。", "en": "I will be right there." },
+        { "jp": "[部長|ぶちょう]の[代|か]わりに[私|わたし]が[参|まい]りました。", "en": "I came in place of the manager." }
+      ]
+    },
+    {
+      "kenjougo": "おります",
+      "verb": "いる",
+      "meaning": "to be",
+      "examples": [
+        { "jp": "[田中|たなか]はただ[今|いま][席|せき]を[外|はず]しております。", "en": "Tanaka is away from his desk right now." },
+        { "jp": "[私|わたし]は[東京|とうきょう][支社|ししゃ]に[勤|つと]めております。", "en": "I am working at the Tokyo branch." },
+        { "jp": "[来週|らいしゅう]は[出張|しゅっちょう]でおりません。", "en": "I will not be in next week as I am on a business trip." }
+      ]
+    },
+    {
+      "kenjougo": "[申|もう]し[上|あ]げます / [申|もう]します",
+      "verb": "言う",
+      "meaning": "to say",
+      "examples": [
+        { "jp": "[私|わたし]はアルディと[申|もう]します。", "en": "My name is Aldi." },
+        { "jp": "[重要|じゅうよう]なことを[申|もう]し[上|あ]げます。", "en": "I have something important to say." },
+        { "jp": "この[件|けん]につきましてご[説明|せつめい][申|もう]し[上|あ]げます。", "en": "Allow me to explain regarding this matter." }
+      ]
+    },
+    {
+      "kenjougo": "いただきます",
+      "verb": "食べる / 飲む",
+      "meaning": "to eat / drink",
+      "examples": [
+        { "jp": "[先|さき]に[昼食|ちゅうしょく]をいただきます。", "en": "I will have lunch first." },
+        { "jp": "では、[遠慮|えんりょ]なくいただきます。", "en": "Well then, I'll help myself without reservation." },
+        { "jp": "こちらのお[菓子|かし]をいただいてもよろしいですか。", "en": "May I have one of these sweets?" }
+      ]
+    },
+    {
+      "kenjougo": "いただきます",
+      "verb": "もらう",
+      "meaning": "to receive",
+      "examples": [
+        { "jp": "[資料|しりょう]をいただきました。", "en": "I received the documents." },
+        { "jp": "[先生|せんせい]からアドバイスをいただきました。", "en": "I received advice from my teacher." },
+        { "jp": "ご[確認|かくにん]いただけますでしょうか。", "en": "Could I ask you to confirm this?" }
+      ]
+    },
+    {
+      "kenjougo": "[伺|うかが]います",
+      "verb": "聞く / 訪ねる",
+      "meaning": "to ask / visit",
+      "examples": [
+        { "jp": "[一|ひと]つ[伺|うかが]ってもよろしいでしょうか。", "en": "May I ask one question?" },
+        { "jp": "[明日|あした]の[三時|さんじ]に[伺|うかが]います。", "en": "I will visit at 3 o'clock tomorrow." },
+        { "jp": "ご[都合|つごう]を[伺|うかが]えますでしょうか。", "en": "May I ask about your availability?" }
+      ]
+    },
+    {
+      "kenjougo": "[拝見|はいけん]します",
+      "verb": "見る",
+      "meaning": "to look / read",
+      "examples": [
+        { "jp": "[履歴書|りれきしょ]を[拝見|はいけん]しました。", "en": "I looked over your resume." },
+        { "jp": "メールを[拝見|はいけん]いたしました。", "en": "I have read your email." },
+        { "jp": "ご[提案|ていあん]を[拝見|はいけん]してもよろしいでしょうか。", "en": "May I take a look at your proposal?" }
+      ]
+    },
+    {
+      "kenjougo": "お[目|め]にかかります",
+      "verb": "会う",
+      "meaning": "to meet",
+      "examples": [
+        { "jp": "[来週|らいしゅう]お[目|め]にかかれるのを[楽|たの]しみにしております。", "en": "I look forward to meeting you next week." },
+        { "jp": "はじめてお[目|め]にかかります。", "en": "It is my first time meeting you." },
+        { "jp": "またお[目|め]にかかれる[日|ひ]を[楽|たの]しみにしております。", "en": "I look forward to the day we can meet again." }
+      ]
+    },
+    {
+      "kenjougo": "[差し上げ|さしあげ]ます",
+      "verb": "あげる",
+      "meaning": "to give",
+      "examples": [
+        { "jp": "[後|のち]ほど[資料|しりょう]を[差し上げ|さしあげ]ます。", "en": "I will give you the materials later." },
+        { "jp": "よろしければご[案内|あんない][差し上げ|さしあげ]ます。", "en": "If you'd like, I can show you around." },
+        { "jp": "こちらのパンフレットを[差し上げ|さしあげ]てもよろしいですか。", "en": "May I give you this brochure?" }
+      ]
+    },
+    {
+      "kenjougo": "いたします",
+      "verb": "する",
+      "meaning": "to do",
+      "examples": [
+        { "jp": "すぐに[確認|かくにん]いたします。", "en": "I will check immediately." },
+        { "jp": "[手配|てはい]はこちらでいたします。", "en": "We will handle the arrangements on our end." },
+        { "jp": "ご[不明|ふめい]な[点|てん]がございましたら、ご[連絡|れんらく]いたします。", "en": "If there are any unclear points, I will contact you." }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "お〜します",
+      "rule": "o + (verb stem) + shimasu for native Japanese verbs (和語)",
+      "examples": [
+        { "jp": "[後|あと]でお[電話|でんわ]します。", "en": "I will call you later." },
+        { "jp": "お[荷物|にもつ]をお[持|も]ちします。", "en": "I will carry your luggage." },
+        { "jp": "こちらへお[連|つ]れします。", "en": "I will take you this way." }
+      ]
+    },
+    {
+      "pattern": "ご〜します",
+      "rule": "go + (noun/suru verb) + shimasu for Sino-Japanese nouns or verbal nouns (漢語)",
+      "examples": [
+        { "jp": "ご[説明|せつめい]します。", "en": "I will explain." },
+        { "jp": "ご[案内|あんない]します。", "en": "I will guide you." },
+        { "jp": "ご[連絡|れんらく]します。", "en": "I will contact you." }
+      ]
+    }
+  ]
+}

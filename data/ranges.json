@@ -1,0 +1,56 @@
+{
+  "title": "Ranges",
+  "description": "Japanese has distinct words for expressing numerical ranges. Some ranges are inclusive, while others are exclusive.",
+  "entries": [
+    {
+      "phrase": "[以上|いじょう]",
+      "explanation": "greater than or equal to (inclusive)",
+      "examples": [
+        { "jp": "この[映画|えいが]は[十八歳|じゅうはっさい][以上|いじょう]しか[見|み]られません。", "en": "Only people aged 18 or older can watch this movie." },
+        { "jp": "[合格|ごうかく]には[七十点|ななじゅってん][以上|いじょう]が[必要|ひつよう]です。", "en": "A score of 70 or above is required to pass." },
+        { "jp": "[五千円|ごせんえん][以上|いじょう]のお[買|か]い[上|あ]げで[送料|そうりょう][無料|むりょう]になります。", "en": "Shipping is free for purchases of 5,000 yen or more." }
+      ],
+      "notes": ""
+    },
+    {
+      "phrase": "[以下|いか]",
+      "explanation": "less than or equal to (inclusive)",
+      "examples": [
+        { "jp": "[荷物|にもつ]は[五|ご]キロ[以下|いか]にしてください。", "en": "Please keep your luggage at 5 kg or less." },
+        { "jp": "[十二歳|じゅうにさい][以下|いか]のお[子|こ]さまは[無料|むりょう]です。", "en": "Children aged 12 and under are free." },
+        { "jp": "[気温|きおん]が[零度|れいど][以下|いか]になると[道路|どうろ]が[凍|こお]ります。", "en": "Roads freeze when the temperature drops to zero degrees or below." }
+      ],
+      "notes": ""
+    },
+    {
+      "phrase": "[未満|みまん]",
+      "explanation": "less than (exclusive)",
+      "examples": [
+        { "jp": "[二十歳|はたち][未満|みまん]はお[酒|さけ]を[飲|の]めません。", "en": "People under 20 cannot drink alcohol." },
+        { "jp": "[所得|しょとく]が[三百万円|さんびゃくまんえん][未満|みまん]の[場合|ばあい]は[申請|しんせい]できます。", "en": "You can apply if your income is less than 3 million yen." },
+        { "jp": "[身長|しんちょう]が[百四十センチ|ひゃくよんじゅうせんち][未満|みまん]のお[子|こ]さまはこのアトラクションに[乗|の]れません。", "en": "Children under 140 cm in height cannot ride this attraction." }
+      ],
+      "notes": "Does not include the boundary number itself. In the first example, someone who is exactly 20 can drink."
+    },
+    {
+      "phrase": "[超|こ]える",
+      "explanation": "greater than (exclusive)",
+      "examples": [
+        { "jp": "[人口|じんこう]が[一億人|いちおくにん]を[超|こ]えました。", "en": "The population has exceeded 100 million." },
+        { "jp": "[気温|きおん]が[三十五度|さんじゅうごど]を[超|こ]える[日|ひ]は[外出|がいしゅつ]を[控|ひか]えてください。", "en": "Please avoid going out on days when the temperature exceeds 35 degrees." },
+        { "jp": "このサービスは[利用者|りようしゃ]が[百万人|ひゃくまんにん]を[超|こ]えました。", "en": "This service has surpassed 1 million users." }
+      ],
+      "notes": "Does not include the boundary number itself. In the first example, exactly 100 million would not count as 超えた."
+    },
+    {
+      "phrase": "[以内|いない]",
+      "explanation": "within (inclusive)",
+      "examples": [
+        { "jp": "[一週間|いっしゅうかん][以内|いない]に[返信|へんしん]してください。", "en": "Please reply within one week." },
+        { "jp": "[駅|えき]から[徒歩|とほ][十分|じゅっぷん][以内|いない]のところに[住|す]んでいます。", "en": "I live within a 10-minute walk from the station." },
+        { "jp": "[予算|よさん]は[一万円|いちまんえん][以内|いない]でお[願|ねが]いします。", "en": "Please keep the budget within 10,000 yen." }
+      ],
+      "notes": "Includes the boundary itself. Replying on exactly the 7th day still counts as within the deadline."
+    }
+  ]
+}

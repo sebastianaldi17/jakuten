@@ -1,0 +1,346 @@
+{
+  "title": "Wears",
+  "description": "Japanese uses different verbs for wearing depending on which part of the body the item goes on.",
+  "entries": [
+    {
+      "phrase": "[着|き]る",
+      "explanation": "to wear (on the torso)",
+      "clothing": [
+        {
+          "jp": "シャツ",
+          "en": "shirt"
+        },
+        {
+          "jp": "Tシャツ",
+          "en": "t-shirt"
+        },
+        {
+          "jp": "セーター",
+          "en": "sweater"
+        },
+        {
+          "jp": "ジャケット",
+          "en": "jacket"
+        },
+        {
+          "jp": "コート",
+          "en": "coat"
+        },
+        {
+          "jp": "スーツ",
+          "en": "suit"
+        },
+        {
+          "jp": "ワンピース",
+          "en": "dress"
+        },
+        {
+          "jp": "[浴衣|ゆかた]",
+          "en": "yukata"
+        },
+        {
+          "jp": "[着物|きもの]",
+          "en": "kimono"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[今日|きょう]は[白|しろ]いシャツを[着|き]ています。",
+          "en": "Today I'm wearing a white shirt."
+        },
+        {
+          "jp": "[寒|さむ]いからコートを[着|き]てください。",
+          "en": "Please put on a coat because it's cold."
+        },
+        {
+          "jp": "[明日|あした]のパーティーにはスーツを[着|き]ていきます。",
+          "en": "I'll wear a suit to tomorrow's party."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "phrase": "[履|は]く",
+      "explanation": "to wear (on lower body or feet)",
+      "clothing": [
+        {
+          "jp": "[靴|くつ]",
+          "en": "shoes"
+        },
+        {
+          "jp": "スニーカー",
+          "en": "sneakers"
+        },
+        {
+          "jp": "ブーツ",
+          "en": "boots"
+        },
+        {
+          "jp": "サンダル",
+          "en": "sandals"
+        },
+        {
+          "jp": "スリッパ",
+          "en": "slippers"
+        },
+        {
+          "jp": "[靴下|くつした]",
+          "en": "socks"
+        },
+        {
+          "jp": "ストッキング",
+          "en": "stockings"
+        },
+        {
+          "jp": "ズボン",
+          "en": "trousers"
+        },
+        {
+          "jp": "スカート",
+          "en": "skirt"
+        },
+        {
+          "jp": "ジーンズ",
+          "en": "jeans"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[毎日|まいにち][同|おな]じ[靴|くつ]を[履|は]いています。",
+          "en": "I wear the same shoes every day."
+        },
+        {
+          "jp": "[今日|きょう]は[寒|さむ]いのでジーンズを[履|は]いてきました。",
+          "en": "I wore jeans today because it's cold."
+        },
+        {
+          "jp": "[家|いえ]に[入|はい]るときはスリッパを[履|は]いてください。",
+          "en": "Please wear slippers when entering the house."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "phrase": "かぶる",
+      "explanation": "to wear (on the head)",
+      "clothing": [
+        {
+          "jp": "[帽子|ぼうし]",
+          "en": "hat"
+        },
+        {
+          "jp": "キャップ",
+          "en": "cap"
+        },
+        {
+          "jp": "ニット[帽|ぼう]",
+          "en": "beanie"
+        },
+        {
+          "jp": "ヘルメット",
+          "en": "helmet"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[外|そと]は[日差|ひざ]しが[強|つよ]いので[帽子|ぼうし]をかぶってください。",
+          "en": "Please wear a hat because the sun is strong outside."
+        },
+        {
+          "jp": "[彼女|かのじょ]はいつもキャップをかぶっています。",
+          "en": "She always wears a cap."
+        },
+        {
+          "jp": "[自転車|じてんしゃ]に[乗|の]るときはヘルメットをかぶりましょう。",
+          "en": "Let's wear a helmet when riding a bicycle."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "phrase": "かける",
+      "explanation": "to wear (on the face)",
+      "clothing": [
+        {
+          "jp": "[眼鏡|めがね]",
+          "en": "glasses"
+        },
+        {
+          "jp": "サングラス",
+          "en": "sunglasses"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[彼|かれ]は[小|ちい]さいころから[眼鏡|めがね]をかけています。",
+          "en": "He has been wearing glasses since he was little."
+        },
+        {
+          "jp": "[海|うみ]に[行|い]くときはサングラスをかけます。",
+          "en": "I wear sunglasses when I go to the beach."
+        },
+        {
+          "jp": "[眼鏡|めがね]をかけると[雰囲気|ふんいき]が[変|か]わりますね。",
+          "en": "Wearing glasses really changes your look, doesn't it."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "phrase": "する",
+      "explanation": "to wear (accessories)",
+      "clothing": [
+        {
+          "jp": "ネクタイ",
+          "en": "necktie"
+        },
+        {
+          "jp": "マフラー",
+          "en": "scarf / muffler"
+        },
+        {
+          "jp": "ベルト",
+          "en": "belt"
+        },
+        {
+          "jp": "[指輪|ゆびわ]",
+          "en": "ring"
+        },
+        {
+          "jp": "ネックレス",
+          "en": "necklace"
+        },
+        {
+          "jp": "イヤリング",
+          "en": "earrings"
+        },
+        {
+          "jp": "ブレスレット",
+          "en": "bracelet"
+        },
+        {
+          "jp": "[時計|とけい]",
+          "en": "watch"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[仕事|しごと]のときはいつもネクタイをしています。",
+          "en": "I always wear a tie at work."
+        },
+        {
+          "jp": "[彼女|かのじょ]はきれいなネックレスをしていました。",
+          "en": "She was wearing a beautiful necklace."
+        },
+        {
+          "jp": "[左手|ひだりて]に[指輪|ゆびわ]をしているので[結婚|けっこん]しているのかもしれません。",
+          "en": "They might be married since they're wearing a ring on their left hand."
+        }
+      ],
+      "notes": "Very versatile and can often be used in place of つける or はめる for accessories."
+    },
+    {
+      "phrase": "つける",
+      "explanation": "to attach / wear (on the body)",
+      "clothing": [
+        {
+          "jp": "[名札|なふだ]",
+          "en": "name tag"
+        },
+        {
+          "jp": "バッジ",
+          "en": "badge"
+        },
+        {
+          "jp": "ブローチ",
+          "en": "brooch"
+        },
+        {
+          "jp": "[香水|こうすい]",
+          "en": "perfume"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[会場|かいじょう]では[名札|なふだ]をつけてください。",
+          "en": "Please wear your name tag at the venue."
+        },
+        {
+          "jp": "[胸|むね]にバッジをつけて[参加|さんか]しました。",
+          "en": "I attended with a badge on my chest."
+        },
+        {
+          "jp": "[今日|きょう]は[香水|こうすい]をつけすぎてしまった。",
+          "en": "I put on too much perfume today."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "phrase": "はめる",
+      "explanation": "to put on (tight-fitting items)",
+      "clothing": [
+        {
+          "jp": "[指輪|ゆびわ]",
+          "en": "ring"
+        },
+        {
+          "jp": "[手袋|てぶくろ]",
+          "en": "gloves"
+        },
+        {
+          "jp": "コンタクトレンズ",
+          "en": "contact lenses"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[冬|ふゆ]は[手袋|てぶくろ]をはめないと[手|て]が[冷|つ]めたくなります。",
+          "en": "In winter, your hands get cold if you don't wear gloves."
+        },
+        {
+          "jp": "[左手|ひだりて]の[薬指|くすりゆび]に[指輪|ゆびわ]をはめました。",
+          "en": "I put a ring on my left ring finger."
+        },
+        {
+          "jp": "[眼鏡|めがね]の[代|か]わりにコンタクトレンズをはめています。",
+          "en": "I wear contact lenses instead of glasses."
+        }
+      ],
+      "notes": "指輪 can also be used with する - both are natural. はめる implies fitting something onto a body part."
+    },
+    {
+      "phrase": "[巻|ま]く",
+      "explanation": "to wrap around",
+      "clothing": [
+        {
+          "jp": "マフラー",
+          "en": "scarf / muffler"
+        },
+        {
+          "jp": "スカーフ",
+          "en": "scarf"
+        },
+        {
+          "jp": "ストール",
+          "en": "stole"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[首|くび]にマフラーを[巻|ま]いて[外|そと]に[出|で]ました。",
+          "en": "I went outside with a scarf wrapped around my neck."
+        },
+        {
+          "jp": "[彼女|かのじょ]はスカーフを[頭|あたま]に[巻|ま]いていました。",
+          "en": "She had a scarf wrapped around her head."
+        },
+        {
+          "jp": "[肌寒|はださむ]いのでストールを[巻|ま]いてきました。",
+          "en": "I wrapped a stole around myself because it was a bit chilly."
+        }
+      ],
+      "notes": "マフラー can also be used with する - both are natural. 巻く emphasizes the wrapping action itself."
+    }
+  ]
+}

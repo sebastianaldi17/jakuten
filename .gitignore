@@ -1,0 +1,15 @@
+# Nuxt
+.nuxt/
+.output/
+.data/
+dist/
+
+# Node
+node_modules/
+
+# Netlify
+.netlify/
+
+# Misc
+.DS_Store
+*.local

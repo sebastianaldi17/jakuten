@@ -1,0 +1,87 @@
+{
+  "title": "Sonkeigo (Honorific)",
+  "description": "Sonkeigo (尊敬語) is the honorific register of keigo - used to elevate the actions of the person you are speaking to or about. DO NOT use sonkeigo to describe your own actions.",
+  "entries": [
+    {
+      "sonkeigo": "いらっしゃる",
+      "verb": "行く / 来る / いる",
+      "meaning": "to go / come / be",
+      "examples": [
+        { "jp": "[先生|せんせい]は[明日|あした][学校|がっこう]にいらっしゃいますか。", "en": "Will the teacher be at school tomorrow?" },
+        { "jp": "[社長|しゃちょう]はどちらへいらっしゃいましたか。", "en": "Where did the company president go?" },
+        { "jp": "お[客様|きゃくさま]がいらっしゃいました。", "en": "A guest has arrived." }
+      ]
+    },
+    {
+      "sonkeigo": "[召し上がる|めしあがる]",
+      "verb": "食べる / 飲む",
+      "meaning": "to eat / drink",
+      "examples": [
+        { "jp": "どうぞお[菓子|かし]を[召し上がっ|めしあがっ]てください。", "en": "Please have some sweets." },
+        { "jp": "[先生|せんせい]はもうお[昼|ひる]を[召し上がり|めしあがり]ましたか。", "en": "Have you already had lunch, Sensei?" },
+        { "jp": "コーヒーと[紅茶|こうちゃ]、どちらを[召し上がり|めしあがり]ますか。", "en": "Which would you prefer, coffee or tea?" }
+      ]
+    },
+    {
+      "sonkeigo": "おっしゃる",
+      "verb": "言う",
+      "meaning": "to say",
+      "examples": [
+        { "jp": "[何|なに]か[質問|しつもん]があればおっしゃってください。", "en": "Please say so if you have any questions." },
+        { "jp": "[先生|せんせい]がおっしゃったことをよく[覚|おぼ]えています。", "en": "I remember well what the teacher said." },
+        { "jp": "おっしゃる[通|とお]りです。", "en": "You are absolutely right." }
+      ]
+    },
+    {
+      "sonkeigo": "ご[覧|らん]になる",
+      "verb": "見る",
+      "meaning": "to look / see",
+      "examples": [
+        { "jp": "この[資料|しりょう]をご[覧|らん]になってください。", "en": "Please take a look at this document." },
+        { "jp": "もうこの[映画|えいが]はご[覧|らん]になりましたか。", "en": "Have you already seen this movie?" },
+        { "jp": "こちらのカタログをご[覧|らん]になりますか。", "en": "Would you like to look at this catalogue?" }
+      ]
+    },
+    {
+      "sonkeigo": "ご[存知|ぞんじ]です",
+      "verb": "知っている",
+      "meaning": "to know",
+      "examples": [
+        { "jp": "[田中|たなか]さんをご[存知|ぞんじ]ですか。", "en": "Do you know Mr. Tanaka?" },
+        { "jp": "この[件|けん]についてはすでにご[存知|ぞんじ]でしょうか。", "en": "Are you already aware of this matter?" },
+        { "jp": "[新|あたら]しい[規則|きそく]はご[存知|ぞんじ]でしたか。", "en": "Were you aware of the new rules?" }
+      ]
+    },
+    {
+      "sonkeigo": "なさる",
+      "verb": "する",
+      "meaning": "to do",
+      "examples": [
+        { "jp": "[週末|しゅうまつ]は[何|なに]をなさいますか。", "en": "What will you do this weekend?" },
+        { "jp": "どのようにお[手続|てつづ]きをなさいますか。", "en": "How would you like to proceed with the procedure?" },
+        { "jp": "[社長|しゃちょう]は[何時|なんじ]ごろご[出発|しゅっぱつ]なさいますか。", "en": "Around what time will the president be departing?" }
+      ]
+    },
+    {
+      "sonkeigo": "くださる",
+      "verb": "くれる",
+      "meaning": "to give (to me/us)",
+      "examples": [
+        { "jp": "ご[連絡|れんらく]くださってありがとうございます。", "en": "Thank you for contacting me." },
+        { "jp": "[先生|せんせい]が[丁寧|ていねい]に[説明|せつめい]してくださいました。", "en": "The teacher kindly explained it for me." },
+        { "jp": "ご[意見|いけん]をくださった[方|かた]に[感謝|かんしゃ]いたします。", "en": "I am grateful to those who gave us their feedback." }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "お〜になる",
+      "rule": "o + (verb stem) + ni naru to make other verbs honorific when no dedicated sonkeigo form exists",
+      "examples": [
+        { "jp": "[部長|ぶちょう]はもうお[帰|かえ]りになりました。", "en": "The manager has already gone home." },
+        { "jp": "[社長|しゃちょう]はすでにお[読|よ]みになりましたか。", "en": "Has the president already read it?" },
+        { "jp": "[先生|せんせい]がお[書|か]きになった[本|ほん]です。", "en": "This is a book that the teacher wrote." }
+      ]
+    }
+  ]
+}

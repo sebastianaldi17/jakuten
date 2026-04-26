@@ -4,6 +4,9 @@ export default defineNuxtConfig({
   typescript: {
     strict: true,
   },
+  nitro: {
+    preset: 'netlify-static'
+  },
   app: {
     head: {
       title: 'Jakuten',

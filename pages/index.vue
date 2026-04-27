@@ -19,6 +19,7 @@ const sections = [
     links: [
       { label: 'Wears', sublabel: '着る・履く・かぶる…', to: '/wears' },
       { label: 'Ranges', sublabel: '以上・以下・未満…', to: '/ranges' },
+      { label: 'Counters', sublabel: '本・枚・匹・台…', to: '/counters' },
     ],
   },
   {

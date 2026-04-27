@@ -74,6 +74,34 @@ export interface RangesData {
   entries: RangesEntry[]
 }
 
+// Counters
+export interface CounterReading {
+  number: number
+  kanji: string
+  reading: string
+}
+
+export interface CounterObject {
+  jp: string
+  en: string
+}
+
+export interface CounterEntry {
+  counter: string
+  reading: string
+  used_for: string
+  objects: CounterObject[]
+  irregular_readings: CounterReading[]
+  examples: Example[]
+  notes: string
+}
+
+export interface CountersData {
+  title: string
+  description: string
+  entries: CounterEntry[]
+}
+
 // Expressions
 export interface ExpressionEntry {
   expression: string

@@ -1,0 +1,1355 @@
+{
+  "title": "Counters",
+  "description": "Japanese uses specific counting words (助数詞) that attach to numbers depending on what is being counted.",
+  "entries": [
+    {
+      "counter": "人",
+      "reading": "にん",
+      "used_for": "people",
+      "objects": [
+        {
+          "jp": "[学生|がくせい]",
+          "en": "student"
+        },
+        {
+          "jp": "[社員|しゃいん]",
+          "en": "employee"
+        },
+        {
+          "jp": "[友達|ともだち]",
+          "en": "friend"
+        }
+      ],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一人",
+          "reading": "ひとり"
+        },
+        {
+          "number": 2,
+          "kanji": "二人",
+          "reading": "ふたり"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "クラスに[三十人|さんじゅうにん]の[学生|がくせい]がいます。",
+          "en": "There are 30 students in the class."
+        },
+        {
+          "jp": "[一人|ひとり]で[映画|えいが]を[見|み]に[行|い]った。",
+          "en": "I went to see a movie alone."
+        },
+        {
+          "jp": "[二人|ふたり]で[食事|しょくじ]をしました。",
+          "en": "The two of us had a meal together."
+        }
+      ],
+      "notes": "一人 (ひとり) and 二人 (ふたり) are completely irregular. From 三人 onwards, にん is used regularly."
+    },
+    {
+      "counter": "〜つ",
+      "reading": "つ",
+      "used_for": "general objects when no specific counter applies (1–10 only)",
+      "objects": [],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一つ",
+          "reading": "ひとつ"
+        },
+        {
+          "number": 2,
+          "kanji": "二つ",
+          "reading": "ふたつ"
+        },
+        {
+          "number": 3,
+          "kanji": "三つ",
+          "reading": "みっつ"
+        },
+        {
+          "number": 4,
+          "kanji": "四つ",
+          "reading": "よっつ"
+        },
+        {
+          "number": 5,
+          "kanji": "五つ",
+          "reading": "いつつ"
+        },
+        {
+          "number": 6,
+          "kanji": "六つ",
+          "reading": "むっつ"
+        },
+        {
+          "number": 7,
+          "kanji": "七つ",
+          "reading": "ななつ"
+        },
+        {
+          "number": 8,
+          "kanji": "八つ",
+          "reading": "やっつ"
+        },
+        {
+          "number": 9,
+          "kanji": "九つ",
+          "reading": "ここのつ"
+        },
+        {
+          "number": 10,
+          "kanji": "十",
+          "reading": "とお"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "りんごを[三つ|みっつ]ください。",
+          "en": "Please give me three apples."
+        },
+        {
+          "jp": "[問題|もんだい]が[二つ|ふたつ]あります。",
+          "en": "There are two problems."
+        },
+        {
+          "jp": "[一つ|ひとつ][聞|き]いてもいいですか。",
+          "en": "May I ask one thing?"
+        }
+      ],
+      "notes": "The つ system only goes up to 10 - there is no 十一つ. For 11 and above, use the appropriate specific counter or 個 as a general fallback. All readings in this system are irregular, as they come from the native Japanese number system rather than the Sino-Japanese one."
+    },
+    {
+      "counter": "個",
+      "reading": "こ",
+      "used_for": "small compact objects",
+      "objects": [
+        {
+          "jp": "[りんご|りんご]",
+          "en": "apple"
+        },
+        {
+          "jp": "[卵|たまご]",
+          "en": "egg"
+        },
+        {
+          "jp": "[石|いし]",
+          "en": "stone"
+        },
+        {
+          "jp": "[飴|あめ]",
+          "en": "candy"
+        },
+        {
+          "jp": "[消しゴム|けしごむ]",
+          "en": "eraser"
+        }
+      ],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一個",
+          "reading": "いっこ"
+        },
+        {
+          "number": 6,
+          "kanji": "六個",
+          "reading": "ろっこ"
+        },
+        {
+          "number": 8,
+          "kanji": "八個",
+          "reading": "はっこ"
+        },
+        {
+          "number": 10,
+          "kanji": "十個",
+          "reading": "じゅっこ"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[卵|たまご]を[六個|ろっこ][買|か]ってきた。",
+          "en": "I bought six eggs."
+        },
+        {
+          "jp": "[りんご|りんご]を[一個|いっこ]ください。",
+          "en": "Please give me one apple."
+        },
+        {
+          "jp": "この[袋|ふくろ]には[飴|あめ]が[十個|じゅっこ]入っています。",
+          "en": "There are ten candies in this bag."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "counter": "枚",
+      "reading": "まい",
+      "used_for": "flat thin objects",
+      "objects": [
+        {
+          "jp": "[紙|かみ]",
+          "en": "paper"
+        },
+        {
+          "jp": "[切手|きって]",
+          "en": "stamp"
+        },
+        {
+          "jp": "[皿|さら]",
+          "en": "plate"
+        },
+        {
+          "jp": "シャツ",
+          "en": "shirt"
+        },
+        {
+          "jp": "[毛布|もうふ]",
+          "en": "blanket"
+        }
+      ],
+      "irregular_readings": [],
+      "examples": [
+        {
+          "jp": "[紙|かみ]を[三枚|さんまい]ください。",
+          "en": "Please give me three sheets of paper."
+        },
+        {
+          "jp": "シャツを[二枚|にまい][買|か]った。",
+          "en": "I bought two shirts."
+        },
+        {
+          "jp": "[切手|きって]が[一枚|いちまい]しか[残|のこ]っていない。",
+          "en": "There is only one stamp left."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "counter": "本",
+      "reading": "ほん",
+      "used_for": "long thin objects",
+      "objects": [
+        {
+          "jp": "[鉛筆|えんぴつ]",
+          "en": "pencil"
+        },
+        {
+          "jp": "[箸|はし]",
+          "en": "chopstick"
+        },
+        {
+          "jp": "ビール",
+          "en": "beer bottle"
+        },
+        {
+          "jp": "[木|き]",
+          "en": "tree"
+        },
+        {
+          "jp": "[川|かわ]",
+          "en": "river"
+        },
+        {
+          "jp": "[電話|でんわ]",
+          "en": "phone call"
+        }
+      ],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一本",
+          "reading": "いっぽん"
+        },
+        {
+          "number": 6,
+          "kanji": "六本",
+          "reading": "ろっぽん"
+        },
+        {
+          "number": 8,
+          "kanji": "八本",
+          "reading": "はっぽん"
+        },
+        {
+          "number": 10,
+          "kanji": "十本",
+          "reading": "じゅっぽん"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "ビールを[一本|いっぽん][買|か]ってきた。",
+          "en": "I bought one bottle of beer."
+        },
+        {
+          "jp": "[鉛筆|えんぴつ]が[三本|さんぼん]あります。",
+          "en": "There are three pencils."
+        },
+        {
+          "jp": "[電話|でんわ]を[一本|いっぽん]かけてもいいですか。",
+          "en": "May I make one phone call?"
+        }
+      ],
+      "notes": "Also used for phone calls, rivers, and roads - anything long and linear in shape or nature."
+    },
+    {
+      "counter": "冊",
+      "reading": "さつ",
+      "used_for": "bound books and notebooks",
+      "objects": [
+        {
+          "jp": "[本|ほん]",
+          "en": "book"
+        },
+        {
+          "jp": "[雑誌|ざっし]",
+          "en": "magazine"
+        },
+        {
+          "jp": "[ノート|のーと]",
+          "en": "notebook"
+        },
+        {
+          "jp": "[辞書|じしょ]",
+          "en": "dictionary"
+        }
+      ],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一冊",
+          "reading": "いっさつ"
+        },
+        {
+          "number": 8,
+          "kanji": "八冊",
+          "reading": "はっさつ"
+        },
+        {
+          "number": 10,
+          "kanji": "十冊",
+          "reading": "じゅっさつ"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[今月|こんげつ]は[本|ほん]を[三冊|さんさつ][読|よ]んだ。",
+          "en": "I read three books this month."
+        },
+        {
+          "jp": "[辞書|じしょ]を[一冊|いっさつ][買|か]いたい。",
+          "en": "I want to buy one dictionary."
+        },
+        {
+          "jp": "[ノート|のーと]が[二冊|にさつ]必要です。",
+          "en": "I need two notebooks."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "counter": "匹",
+      "reading": "ひき",
+      "used_for": "small to medium animals (excluding birds and large animals)",
+      "objects": [
+        {
+          "jp": "[猫|ねこ]",
+          "en": "cat"
+        },
+        {
+          "jp": "[犬|いぬ]",
+          "en": "dog"
+        },
+        {
+          "jp": "[魚|さかな]",
+          "en": "fish"
+        },
+        {
+          "jp": "[虫|むし]",
+          "en": "insect"
+        },
+        {
+          "jp": "[うさぎ|うさぎ]",
+          "en": "rabbit"
+        }
+      ],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一匹",
+          "reading": "いっぴき"
+        },
+        {
+          "number": 6,
+          "kanji": "六匹",
+          "reading": "ろっぴき"
+        },
+        {
+          "number": 8,
+          "kanji": "八匹",
+          "reading": "はっぴき"
+        },
+        {
+          "number": 10,
+          "kanji": "十匹",
+          "reading": "じゅっぴき"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[猫|ねこ]を[二匹|にひき][飼|か]っています。",
+          "en": "I have two cats."
+        },
+        {
+          "jp": "[池|いけ]に[魚|さかな]が[何匹|なんびき]いますか。",
+          "en": "How many fish are in the pond?"
+        },
+        {
+          "jp": "[犬|いぬ]が[一匹|いっぴき]いなくなってしまった。",
+          "en": "One dog has gone missing."
+        }
+      ],
+      "notes": "Used for small to medium animals. Do not use for birds (use 羽) or large animals like cows and horses (use 頭)."
+    },
+    {
+      "counter": "頭",
+      "reading": "とう",
+      "used_for": "large animals",
+      "objects": [
+        {
+          "jp": "[牛|うし]",
+          "en": "cow"
+        },
+        {
+          "jp": "[馬|うま]",
+          "en": "horse"
+        },
+        {
+          "jp": "[象|ぞう]",
+          "en": "elephant"
+        },
+        {
+          "jp": "[クジラ|くじら]",
+          "en": "whale"
+        }
+      ],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一頭",
+          "reading": "いっとう"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "この[農場|のうじょう]には[牛|うし]が[五十頭|ごじゅうとう]います。",
+          "en": "There are 50 cows on this farm."
+        },
+        {
+          "jp": "[象|ぞう]が[一頭|いっとう][動物園|どうぶつえん]に[来|き]ました。",
+          "en": "One elephant came to the zoo."
+        },
+        {
+          "jp": "[馬|うま]を[三頭|さんとう][育|そだ]てています。",
+          "en": "We are raising three horses."
+        }
+      ],
+      "notes": "Used for large animals. Smaller animals use 匹, birds use 羽."
+    },
+    {
+      "counter": "羽",
+      "reading": "わ",
+      "used_for": "birds and rabbits",
+      "objects": [
+        {
+          "jp": "[鳥|とり]",
+          "en": "bird"
+        },
+        {
+          "jp": "[鶏|にわとり]",
+          "en": "chicken"
+        },
+        {
+          "jp": "[うさぎ|うさぎ]",
+          "en": "rabbit"
+        },
+        {
+          "jp": "[ハト|はと]",
+          "en": "pigeon"
+        }
+      ],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一羽",
+          "reading": "いちわ"
+        },
+        {
+          "number": 6,
+          "kanji": "六羽",
+          "reading": "ろくわ"
+        },
+        {
+          "number": 8,
+          "kanji": "八羽",
+          "reading": "はちわ"
+        },
+        {
+          "number": 10,
+          "kanji": "十羽",
+          "reading": "じゅっわ"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[公園|こうえん]に[鳥|とり]が[三羽|さんわ]います。",
+          "en": "There are three birds in the park."
+        },
+        {
+          "jp": "[鶏|にわとり]を[五羽|ごわ][飼|か]っています。",
+          "en": "We keep five chickens."
+        },
+        {
+          "jp": "[一羽|いちわ]だけ[色|いろ]が[違|ちが]う[鳥|とり]がいる。",
+          "en": "There is one bird with a different colour."
+        }
+      ],
+      "notes": "Rabbits are counted with 羽 rather than 匹 in formal and traditional contexts, though 匹 is also used in casual speech."
+    },
+    {
+      "counter": "着",
+      "reading": "ちゃく",
+      "used_for": "garments and articles of clothing",
+      "objects": [
+        {
+          "jp": "スーツ",
+          "en": "suit"
+        },
+        {
+          "jp": "[着物|きもの]",
+          "en": "kimono"
+        },
+        {
+          "jp": "コート",
+          "en": "coat"
+        },
+        {
+          "jp": "ワンピース",
+          "en": "dress"
+        }
+      ],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一着",
+          "reading": "いっちゃく"
+        },
+        {
+          "number": 8,
+          "kanji": "八着",
+          "reading": "はっちゃく"
+        },
+        {
+          "number": 10,
+          "kanji": "十着",
+          "reading": "じゅっちゃく"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "スーツを[一着|いっちゃく][新調|しんちょう]した。",
+          "en": "I got one new suit made."
+        },
+        {
+          "jp": "[着物|きもの]が[三着|さんちゃく]あります。",
+          "en": "There are three kimonos."
+        },
+        {
+          "jp": "[旅行|りょこう]に[二着|にちゃく]だけ[持|も]っていった。",
+          "en": "I only brought two outfits on the trip."
+        }
+      ],
+      "notes": "Used for whole garments or outfits. Individual items like socks or shirts are more commonly counted with 枚 in casual speech."
+    },
+    {
+      "counter": "足",
+      "reading": "そく",
+      "used_for": "pairs of footwear and socks",
+      "objects": [
+        {
+          "jp": "[靴|くつ]",
+          "en": "shoes"
+        },
+        {
+          "jp": "[靴下|くつした]",
+          "en": "socks"
+        },
+        {
+          "jp": "ブーツ",
+          "en": "boots"
+        },
+        {
+          "jp": "サンダル",
+          "en": "sandals"
+        }
+      ],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一足",
+          "reading": "いっそく"
+        },
+        {
+          "number": 8,
+          "kanji": "八足",
+          "reading": "はっそく"
+        },
+        {
+          "number": 10,
+          "kanji": "十足",
+          "reading": "じゅっそく"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[靴|くつ]を[一足|いっそく][買|か]いました。",
+          "en": "I bought one pair of shoes."
+        },
+        {
+          "jp": "[靴下|くつした]が[三足|さんぞく]しか[残|のこ]っていない。",
+          "en": "I only have three pairs of socks left."
+        },
+        {
+          "jp": "このブーツは[二足|にそく]で[安|やす]くなります。",
+          "en": "These boots are discounted when you buy two pairs."
+        }
+      ],
+      "notes": "Counts pairs, not individual items. One pair of shoes = 一足, not 二足."
+    },
+    {
+      "counter": "台",
+      "reading": "だい",
+      "used_for": "machines, vehicles, and large appliances",
+      "objects": [
+        {
+          "jp": "[車|くるま]",
+          "en": "car"
+        },
+        {
+          "jp": "[自転車|じてんしゃ]",
+          "en": "bicycle"
+        },
+        {
+          "jp": "[パソコン|ぱそこん]",
+          "en": "computer"
+        },
+        {
+          "jp": "[冷蔵庫|れいぞうこ]",
+          "en": "refrigerator"
+        },
+        {
+          "jp": "[テレビ|てれび]",
+          "en": "television"
+        }
+      ],
+      "irregular_readings": [],
+      "examples": [
+        {
+          "jp": "[車|くるま]を[一台|いちだい][買|か]いました。",
+          "en": "I bought one car."
+        },
+        {
+          "jp": "オフィスにパソコンが[五台|ごだい]あります。",
+          "en": "There are five computers in the office."
+        },
+        {
+          "jp": "[自転車|じてんしゃ]が[三台|さんだい][止|と]まっています。",
+          "en": "Three bicycles are parked."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "counter": "杯",
+      "reading": "はい",
+      "used_for": "cups, glasses, and bowls of liquid or food",
+      "objects": [
+        {
+          "jp": "コーヒー",
+          "en": "coffee"
+        },
+        {
+          "jp": "お[茶|ちゃ]",
+          "en": "tea"
+        },
+        {
+          "jp": "[水|みず]",
+          "en": "water"
+        },
+        {
+          "jp": "[ラーメン|らーめん]",
+          "en": "ramen"
+        },
+        {
+          "jp": "お[酒|さけ]",
+          "en": "alcohol"
+        }
+      ],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一杯",
+          "reading": "いっぱい"
+        },
+        {
+          "number": 6,
+          "kanji": "六杯",
+          "reading": "ろっぱい"
+        },
+        {
+          "number": 8,
+          "kanji": "八杯",
+          "reading": "はっぱい"
+        },
+        {
+          "number": 10,
+          "kanji": "十杯",
+          "reading": "じゅっぱい"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "コーヒーを[一杯|いっぱい]いただけますか。",
+          "en": "Could I have one cup of coffee?"
+        },
+        {
+          "jp": "[水|みず]を[三杯|さんばい][飲|の]んだ。",
+          "en": "I drank three glasses of water."
+        },
+        {
+          "jp": "ラーメンを[二杯|にはい]も[食|た]べてしまった。",
+          "en": "I ended up eating two bowls of ramen."
+        }
+      ],
+      "notes": "一杯 (いっぱい) also means 'full' or 'a lot' as a standalone word, so context matters."
+    },
+    {
+      "counter": "歳／才",
+      "reading": "さい",
+      "used_for": "age",
+      "objects": [],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一歳",
+          "reading": "いっさい"
+        },
+        {
+          "number": 8,
+          "kanji": "八歳",
+          "reading": "はっさい"
+        },
+        {
+          "number": 10,
+          "kanji": "十歳",
+          "reading": "じゅっさい / とお"
+        },
+        {
+          "number": 20,
+          "kanji": "二十歳",
+          "reading": "はたち"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[私|わたし]は[二十五歳|にじゅうごさい]です。",
+          "en": "I am 25 years old."
+        },
+        {
+          "jp": "[息子|むすこ]は[今年|ことし][八歳|はっさい]になります。",
+          "en": "My son will turn 8 this year."
+        },
+        {
+          "jp": "[何歳|なんさい]ですか。",
+          "en": "How old are you?"
+        }
+      ],
+      "notes": "才 is a simplified informal version of 歳, often used when writing by hand or in casual contexts. 十歳 can also be read as とお in very traditional contexts. 二十歳 (はたち) is a well-known special reading tied to the age of adulthood in Japan."
+    },
+    {
+      "counter": "回",
+      "reading": "かい",
+      "used_for": "number of times / occurrences",
+      "objects": [],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一回",
+          "reading": "いっかい"
+        },
+        {
+          "number": 6,
+          "kanji": "六回",
+          "reading": "ろっかい"
+        },
+        {
+          "number": 8,
+          "kanji": "八回",
+          "reading": "はっかい"
+        },
+        {
+          "number": 10,
+          "kanji": "十回",
+          "reading": "じゅっかい"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[薬|くすり]を[一日|いちにち][三回|さんかい][飲|の]んでください。",
+          "en": "Please take the medicine three times a day."
+        },
+        {
+          "jp": "[今週|こんしゅう][二回|にかい]ジムに[行|い]った。",
+          "en": "I went to the gym twice this week."
+        },
+        {
+          "jp": "[何回|なんかい]も[練習|れんしゅう]しました。",
+          "en": "I practiced many times."
+        }
+      ],
+      "notes": "Not to be confused with 階 (floor level), which shares the same reading かい."
+    },
+    {
+      "counter": "階",
+      "reading": "かい",
+      "used_for": "floor levels of a building",
+      "objects": [],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一階",
+          "reading": "いっかい"
+        },
+        {
+          "number": 6,
+          "kanji": "六階",
+          "reading": "ろっかい"
+        },
+        {
+          "number": 8,
+          "kanji": "八階",
+          "reading": "はっかい"
+        },
+        {
+          "number": 10,
+          "kanji": "十階",
+          "reading": "じゅっかい"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[私|わたし]のオフィスは[五階|ごかい]にあります。",
+          "en": "My office is on the 5th floor."
+        },
+        {
+          "jp": "エレベーターで[三階|さんがい]に[行|い]きます。",
+          "en": "I will go to the 3rd floor by elevator."
+        },
+        {
+          "jp": "[一階|いっかい]のカフェで[待|ま]っています。",
+          "en": "I am waiting at the café on the first floor."
+        }
+      ],
+      "notes": "Not to be confused with 回 (number of times), which shares the same reading かい. Note that 三階 is often read さんがい rather than さんかい in natural speech."
+    },
+    {
+      "counter": "件",
+      "reading": "けん",
+      "used_for": "cases, matters, and incidents",
+      "objects": [
+        {
+          "jp": "[事件|じけん]",
+          "en": "incident"
+        },
+        {
+          "jp": "[メール|めーる]",
+          "en": "email"
+        },
+        {
+          "jp": "[問題|もんだい]",
+          "en": "issue"
+        },
+        {
+          "jp": "[申請|しんせい]",
+          "en": "application"
+        }
+      ],
+      "irregular_readings": [],
+      "examples": [
+        {
+          "jp": "[未読|みどく]メールが[三件|さんけん]あります。",
+          "en": "There are three unread emails."
+        },
+        {
+          "jp": "[今日|きょう]は[五件|ごけん]の[打|う]ち[合|あ]わせがあります。",
+          "en": "I have five meetings today."
+        },
+        {
+          "jp": "[先月|せんげつ]、この[地域|ちいき]で[事件|じけん]が[二件|にけん]ありました。",
+          "en": "Last month, there were two incidents in this area."
+        }
+      ],
+      "notes": "Common in workplace and formal contexts. Often seen in business emails and reports."
+    },
+    {
+      "counter": "ヶ所／箇所",
+      "reading": "かしょ",
+      "used_for": "locations and places",
+      "objects": [
+        {
+          "jp": "[観光地|かんこうち]",
+          "en": "tourist spot"
+        },
+        {
+          "jp": "[支店|してん]",
+          "en": "branch office"
+        },
+        {
+          "jp": "[傷|きず]",
+          "en": "wound / scratch"
+        }
+      ],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一ヶ所",
+          "reading": "いっかしょ"
+        },
+        {
+          "number": 6,
+          "kanji": "六ヶ所",
+          "reading": "ろっかしょ"
+        },
+        {
+          "number": 8,
+          "kanji": "八ヶ所",
+          "reading": "はっかしょ"
+        },
+        {
+          "number": 10,
+          "kanji": "十ヶ所",
+          "reading": "じゅっかしょ"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[国内|こくない]に[支店|してん]が[三ヶ所|さんかしょ]あります。",
+          "en": "There are three branch offices in the country."
+        },
+        {
+          "jp": "[旅行|りょこう]で[五ヶ所|ごかしょ]の[観光地|かんこうち]を[回|まわ]った。",
+          "en": "I visited five tourist spots on the trip."
+        },
+        {
+          "jp": "[報告書|ほうこくしょ]に[誤字|ごじ]が[二ヶ所|にかしょ]ありました。",
+          "en": "There were two typos in the report."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "counter": "秒",
+      "reading": "びょう",
+      "used_for": "seconds",
+      "objects": [],
+      "irregular_readings": [],
+      "examples": [
+        {
+          "jp": "[信号|しんごう]が[三十秒|さんじゅうびょう]で[変|か]わります。",
+          "en": "The traffic light changes in thirty seconds."
+        },
+        {
+          "jp": "[一秒|いちびょう]も[無駄|むだ]にしたくない。",
+          "en": "I don't want to waste even one second."
+        },
+        {
+          "jp": "[彼|かれ]は[百メートル|ひゃくめーとる]を[十秒|じゅうびょう]で[走|はし]った。",
+          "en": "He ran 100 metres in ten seconds."
+        }
+      ],
+      "notes": "No irregular readings. The counter is consistent across all numbers."
+    },
+    {
+      "counter": "分",
+      "reading": "ふん／ぷん",
+      "used_for": "minutes",
+      "objects": [],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一分",
+          "reading": "いっぷん"
+        },
+        {
+          "number": 3,
+          "kanji": "三分",
+          "reading": "さんぷん"
+        },
+        {
+          "number": 4,
+          "kanji": "四分",
+          "reading": "よんぷん"
+        },
+        {
+          "number": 6,
+          "kanji": "六分",
+          "reading": "ろっぷん"
+        },
+        {
+          "number": 8,
+          "kanji": "八分",
+          "reading": "はっぷん"
+        },
+        {
+          "number": 10,
+          "kanji": "十分",
+          "reading": "じゅっぷん"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[駅|えき]まで[歩|ある]いて[十分|じゅっぷん]かかります。",
+          "en": "It takes ten minutes to walk to the station."
+        },
+        {
+          "jp": "[三分|さんぷん]だけ[待|ま]ってください。",
+          "en": "Please wait just three minutes."
+        },
+        {
+          "jp": "[授業|じゅぎょう]は[一時間|いちじかん][三十分|さんじゅっぷん]あります。",
+          "en": "The class is one hour and thirty minutes long."
+        }
+      ],
+      "notes": "The reading changes to ぷん after 1、3、4、6、8、10. 十分 (じゅっぷん) also means 'enough / sufficiently' as a separate word."
+    },
+    {
+      "counter": "時間",
+      "reading": "じかん",
+      "used_for": "duration in hours",
+      "objects": [],
+      "irregular_readings": [],
+      "examples": [
+        {
+          "jp": "[会議|かいぎ]は[二時間|にじかん]かかりました。",
+          "en": "The meeting took two hours."
+        },
+        {
+          "jp": "[毎日|まいにち][一時間|いちじかん][勉強|べんきょう]しています。",
+          "en": "I study for one hour every day."
+        },
+        {
+          "jp": "このドラマは[一話|いちわ][四十五分|よんじゅうごふん]で、[全部|ぜんぶ]で[十時間|じゅうじかん]あります。",
+          "en": "Each episode of this drama is 45 minutes, totalling ten hours."
+        }
+      ],
+      "notes": "Do not confuse with 時 (じ), which is used for clock times (e.g. 三時 = 3 o'clock). 時間 is for durations only."
+    },
+    {
+      "counter": "日",
+      "reading": "にち／か",
+      "used_for": "days (dates and durations)",
+      "objects": [],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一日",
+          "reading": "ついたち (date) / いちにち (duration)"
+        },
+        {
+          "number": 2,
+          "kanji": "二日",
+          "reading": "ふつか"
+        },
+        {
+          "number": 3,
+          "kanji": "三日",
+          "reading": "みっか"
+        },
+        {
+          "number": 4,
+          "kanji": "四日",
+          "reading": "よっか"
+        },
+        {
+          "number": 5,
+          "kanji": "五日",
+          "reading": "いつか"
+        },
+        {
+          "number": 6,
+          "kanji": "六日",
+          "reading": "むいか"
+        },
+        {
+          "number": 7,
+          "kanji": "七日",
+          "reading": "なのか"
+        },
+        {
+          "number": 8,
+          "kanji": "八日",
+          "reading": "ようか"
+        },
+        {
+          "number": 9,
+          "kanji": "九日",
+          "reading": "ここのか"
+        },
+        {
+          "number": 10,
+          "kanji": "十日",
+          "reading": "とおか"
+        },
+        {
+          "number": 14,
+          "kanji": "十四日",
+          "reading": "じゅうよっか"
+        },
+        {
+          "number": 20,
+          "kanji": "二十日",
+          "reading": "はつか"
+        },
+        {
+          "number": 24,
+          "kanji": "二十四日",
+          "reading": "にじゅうよっか"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[誕生日|たんじょうび]は[三月|さんがつ][三日|みっか]です。",
+          "en": "My birthday is March 3rd."
+        },
+        {
+          "jp": "[旅行|りょこう]は[五日間|いつかかん]でした。",
+          "en": "The trip was five days long."
+        },
+        {
+          "jp": "[一日|いちにち]に[三回|さんかい][薬|くすり]を[飲|の]んでください。",
+          "en": "Please take the medicine three times a day."
+        }
+      ],
+      "notes": "一日 is the only entry with a split reading - ついたち when referring to the 1st of the month, いちにち when referring to a full day's duration. All other days use the same reading for both date and duration. Beyond 10, most follow じゅう + the irregular reading (e.g. 十四日 = じゅうよっか), with 二十日 (はつか) being a notable exception."
+    },
+    {
+      "counter": "週間",
+      "reading": "しゅうかん",
+      "used_for": "duration in weeks",
+      "objects": [],
+      "irregular_readings": [],
+      "examples": [
+        {
+          "jp": "[夏休|なつやす]みは[三週間|さんしゅうかん]あります。",
+          "en": "Summer vacation is three weeks long."
+        },
+        {
+          "jp": "[一週間|いっしゅうかん]で[終|お]わらせるつもりです。",
+          "en": "I plan to finish it within one week."
+        },
+        {
+          "jp": "[二週間|にしゅうかん][旅行|りょこう]に[行|い]ってきました。",
+          "en": "I went travelling for two weeks."
+        }
+      ],
+      "notes": "一週間 (いっしゅうかん) is slightly irregular - the pronunciation of 一 shifts to いっ due to the following し."
+    },
+    {
+      "counter": "ヶ月",
+      "reading": "かげつ",
+      "used_for": "duration in months",
+      "objects": [],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一ヶ月",
+          "reading": "いっかげつ"
+        },
+        {
+          "number": 6,
+          "kanji": "六ヶ月",
+          "reading": "ろっかげつ"
+        },
+        {
+          "number": 8,
+          "kanji": "八ヶ月",
+          "reading": "はっかげつ"
+        },
+        {
+          "number": 10,
+          "kanji": "十ヶ月",
+          "reading": "じゅっかげつ"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "この[プロジェクト|ぷろじぇくと]は[三ヶ月|さんかげつ]かかります。",
+          "en": "This project will take three months."
+        },
+        {
+          "jp": "[日本|にほん]に[六ヶ月|ろっかげつ][住|す]んでいました。",
+          "en": "I lived in Japan for six months."
+        },
+        {
+          "jp": "[一ヶ月|いっかげつ]で[十冊|じゅっさつ][本|ほん]を[読|よ]んだ。",
+          "en": "I read ten books in one month."
+        }
+      ],
+      "notes": "Used for durations only. For calendar months (January, February etc.) use 月 (がつ) instead."
+    },
+    {
+      "counter": "年間",
+      "reading": "ねんかん",
+      "used_for": "duration in years",
+      "objects": [],
+      "irregular_readings": [],
+      "examples": [
+        {
+          "jp": "[三年間|さんねんかん][日本語|にほんご]を[勉強|べんきょう]しています。",
+          "en": "I have been studying Japanese for three years."
+        },
+        {
+          "jp": "[十年間|じゅうねんかん]この[会社|かいしゃ]で[働|はたら]いています。",
+          "en": "I have been working at this company for ten years."
+        },
+        {
+          "jp": "[一年間|いちねんかん]の[留学|りゅうがく]を[終|お]えて[帰国|きこく]しました。",
+          "en": "I returned home after completing one year of studying abroad."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "counter": "泊",
+      "reading": "はく",
+      "used_for": "number of nights stayed",
+      "objects": [],
+      "irregular_readings": [
+        {
+          "number": 1,
+          "kanji": "一泊",
+          "reading": "いっぱく"
+        },
+        {
+          "number": 6,
+          "kanji": "六泊",
+          "reading": "ろっぱく"
+        },
+        {
+          "number": 8,
+          "kanji": "八泊",
+          "reading": "はっぱく"
+        },
+        {
+          "number": 10,
+          "kanji": "十泊",
+          "reading": "じゅっぱく"
+        }
+      ],
+      "examples": [
+        {
+          "jp": "[三泊四日|さんぱくよっか]の[旅行|りょこう]を[計画|けいかく]しています。",
+          "en": "I am planning a three-night, four-day trip."
+        },
+        {
+          "jp": "ホテルに[一泊|いっぱく]しました。",
+          "en": "I stayed at the hotel for one night."
+        },
+        {
+          "jp": "[今回|こんかい]の[出張|しゅっちょう]は[二泊三日|にはくみっか]です。",
+          "en": "This business trip is two nights and three days."
+        }
+      ],
+      "notes": "Commonly paired with 〜日 to express trip length, e.g. 三泊四日 (three nights, four days)."
+    },
+    {
+      "counter": "課",
+      "reading": "か",
+      "used_for": "lessons or chapters in a textbook",
+      "objects": [
+        {
+          "jp": "[教科書|きょうかしょ]",
+          "en": "textbook"
+        },
+        {
+          "jp": "[テキスト|てきすと]",
+          "en": "study material"
+        }
+      ],
+      "irregular_readings": [],
+      "examples": [
+        {
+          "jp": "[今日|きょう]は[三課|さんか]を[勉強|べんきょう]しました。",
+          "en": "Today I studied lesson 3."
+        },
+        {
+          "jp": "[教科書|きょうかしょ]は[全部|ぜんぶ]で[二十課|にじゅっか]あります。",
+          "en": "The textbook has 20 lessons in total."
+        },
+        {
+          "jp": "[一課|いっか]から[始|はじ]めましょう。",
+          "en": "Let's start from lesson 1."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "counter": "ページ",
+      "reading": "ぺーじ",
+      "used_for": "pages",
+      "objects": [],
+      "irregular_readings": [],
+      "examples": [
+        {
+          "jp": "[教科書|きょうかしょ]の[三十ページ|さんじゅっぺーじ]を[開|ひら]いてください。",
+          "en": "Please open your textbook to page 30."
+        },
+        {
+          "jp": "レポートは[五ページ|ごぺーじ]以内でまとめてください。",
+          "en": "Please summarize the report within five pages."
+        },
+        {
+          "jp": "[一日|いちにち][十ページ|じゅっぺーじ]ずつ[読|よ]んでいます。",
+          "en": "I read ten pages a day."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "counter": "第〜",
+      "reading": "だい",
+      "used_for": "ordinal numbering (chapters, rounds, episodes)",
+      "objects": [],
+      "irregular_readings": [],
+      "examples": [
+        {
+          "jp": "[第一章|だいいっしょう]を[読|よ]んでください。",
+          "en": "Please read chapter one."
+        },
+        {
+          "jp": "[第三回|だいさんかい]の[会議|かいぎ]が[来週|らいしゅう]あります。",
+          "en": "The third meeting is next week."
+        },
+        {
+          "jp": "[第二位|だいにい]でゴールしました。",
+          "en": "I finished in second place."
+        }
+      ],
+      "notes": "第 is a prefix, not a standalone counter. It attaches before the number and counter to express order or ranking, similar to 'the Nth' in English. Unlike other counters, it has no irregular readings."
+    }
+  ]
+}

@@ -41,7 +41,7 @@
           "notes": "Used when leaving someone's home or workspace."
         },
         {
-          "phrase": "ご[無沙汰|ぶさた]しております",
+          "phrase": "ご無沙汰しております",
           "phrase_reading": "ごぶさたしております",
           "meaning": "I'm sorry for being out of touch / It's been a while.",
           "examples": [],
@@ -180,7 +180,7 @@
           "notes": ""
         },
         {
-          "phrase": "[遠慮|えんりょ]なく",
+          "phrase": "遠慮なく",
           "phrase_reading": "えんりょなく",
           "meaning": "Without hesitation / Please help yourself.",
           "examples": [],

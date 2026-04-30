@@ -3,6 +3,53 @@
   "description": "",
   "categories": [
     {
+      "category": "Daily Rituals",
+      "entries": [
+        {
+          "phrase": "いただきます",
+          "phrase_reading": "いただきます",
+          "meaning": "Let's eat. / Thank you for the meal. (before eating)",
+          "examples": [],
+          "notes": "Said before eating as an expression of gratitude - toward the person who prepared the food, the ingredients, and nature. There is no direct English equivalent. Do not confuse with いただきます as a humble verb (to receive/eat) in kenjougo."
+        },
+        {
+          "phrase": "ごちそうさまでした",
+          "phrase_reading": "ごちそうさまでした",
+          "meaning": "Thank you for the meal. (after eating)",
+          "examples": [],
+          "notes": "Said after finishing a meal. Pairs with いただきます. Also said to the restaurant staff when leaving."
+        },
+        {
+          "phrase": "行ってきます",
+          "phrase_reading": "いってきます",
+          "meaning": "I'm heading out. / I'll be back.",
+          "examples": [],
+          "notes": "Said when leaving home. Implies you will return. The listener responds with 行ってらっしゃい."
+        },
+        {
+          "phrase": "行ってらっしゃい",
+          "phrase_reading": "いってらっしゃい",
+          "meaning": "Take care. / See you later.",
+          "examples": [],
+          "notes": "The response to 行ってきます. Said by the person staying behind to the person leaving."
+        },
+        {
+          "phrase": "ただいま",
+          "phrase_reading": "ただいま",
+          "meaning": "I'm home.",
+          "examples": [],
+          "notes": "Said upon returning home. The listener responds with おかえりなさい."
+        },
+        {
+          "phrase": "おかえりなさい",
+          "phrase_reading": "おかえりなさい",
+          "meaning": "Welcome back.",
+          "examples": [],
+          "notes": "The response to ただいま. The casual form is おかえり."
+        }
+      ]
+    },
+    {
       "category": "Greetings",
       "entries": [
         {
@@ -46,6 +93,34 @@
           "meaning": "I'm sorry for being out of touch / It's been a while.",
           "examples": [],
           "notes": "Used when reconnecting with someone after a long period of no contact. Often appears at the start of emails or letters. The casual equivalent is 久しぶり."
+        },
+        {
+          "phrase": "お久しぶりです",
+          "phrase_reading": "おひさしぶりです",
+          "meaning": "Long time no see. (polite)",
+          "examples": [],
+          "notes": "Casual equivalent is 久しぶり. The formal equivalent for written contexts is ご無沙汰しております."
+        },
+        {
+          "phrase": "おめでとうございます",
+          "phrase_reading": "おめでとうございます",
+          "meaning": "Congratulations.",
+          "examples": [],
+          "notes": "Used for birthdays, new year, graduation, marriage, and other celebratory occasions. The casual form is おめでとう."
+        },
+        {
+          "phrase": "よいお年を",
+          "phrase_reading": "よいおとしを",
+          "meaning": "Have a good new year.",
+          "examples": [],
+          "notes": "Said at the end of the year before New Year's. The full form is よいお年をお迎えください but it is almost always shortened."
+        },
+        {
+          "phrase": "あけましておめでとうございます",
+          "phrase_reading": "あけましておめでとうございます",
+          "meaning": "Happy New Year.",
+          "examples": [],
+          "notes": "Said at the start of the new year, typically until around January 15th. Often followed by 今年もよろしくお願いします."
         }
       ]
     },
@@ -60,11 +135,18 @@
           "notes": ""
         },
         {
+          "phrase": "ご苦労様です",
+          "phrase_reading": "ごくろうさまです",
+          "meaning": "Good work. / Thank you for your effort.",
+          "examples": [],
+          "notes": "Used downward only - from a superior to a subordinate. Using it toward a peer or superior is considered rude. When in doubt, use お疲れ様です instead, which is safe in all directions."
+        },
+        {
           "phrase": "お疲れ様です",
           "phrase_reading": "おつかれさまです",
           "meaning": "Thank you for your hard work.",
           "examples": [],
-          "notes": ""
+          "notes": "Can be used toward peers, superiors, and subordinates. Safe in all directions. Do not confuse with ご苦労様, which is downward only."
         },
         {
           "phrase": "かしこまりました",
@@ -86,6 +168,13 @@
           "meaning": "Understood. (casual)",
           "examples": [],
           "notes": "Best used between peers or when speaking to someone of lower status. Avoid using this toward superiors as it can come across as presumptuous."
+        },
+        {
+          "phrase": "お世話になりました",
+          "phrase_reading": "おせわになりました",
+          "meaning": "Thank you for everything. / I am grateful for your support.",
+          "examples": [],
+          "notes": "Past tense of お世話になっております. Used when leaving a job, ending a long business relationship, or wrapping up a project. More final in tone than the present form."
         }
       ]
     },
@@ -185,6 +274,34 @@
           "meaning": "Without hesitation / Please help yourself.",
           "examples": [],
           "notes": "Used to tell someone to feel free and not hold back. Often follows どうぞ - as in どうぞ遠慮なく."
+        },
+        {
+          "phrase": "なるほど",
+          "phrase_reading": "なるほど",
+          "meaning": "I see. / That makes sense.",
+          "examples": [],
+          "notes": "A common back-channel response showing understanding. Be careful using it toward superiors as some consider it too casual - そうですか or おっしゃる通りです are safer in formal contexts."
+        },
+        {
+          "phrase": "よかった",
+          "phrase_reading": "よかった",
+          "meaning": "That's a relief. / I'm glad.",
+          "examples": [],
+          "notes": ""
+        },
+        {
+          "phrase": "仕方がない",
+          "phrase_reading": "しかたがない",
+          "meaning": "It can't be helped. / Nothing can be done about it.",
+          "examples": [],
+          "notes": "Also commonly said as しょうがない in casual speech. Expresses resignation or acceptance of an unavoidable situation."
+        },
+        {
+          "phrase": "もったいない",
+          "phrase_reading": "もったいない",
+          "meaning": "What a waste. / Too good to waste.",
+          "examples": [],
+          "notes": "Expresses regret over wasting something of value - food, money, talent, or opportunity. The concept has no direct English equivalent."
         }
       ]
     },

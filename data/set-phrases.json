@@ -1,6 +1,6 @@
 {
   "title": "Set Phrases",
-  "description": "Phrases that are better memorized as a whole rather than broken down into individual words.",
+  "description": "",
   "categories": [
     {
       "category": "Greetings",
@@ -39,6 +39,13 @@
           "meaning": "Thank you for having me.",
           "examples": [],
           "notes": "Used when leaving someone's home or workspace."
+        },
+        {
+          "phrase": "ご[無沙汰|ぶさた]しております",
+          "phrase_reading": "ごぶさたしております",
+          "meaning": "I'm sorry for being out of touch / It's been a while.",
+          "examples": [],
+          "notes": "Used when reconnecting with someone after a long period of no contact. Often appears at the start of emails or letters. The casual equivalent is 久しぶり."
         }
       ]
     },
@@ -171,6 +178,13 @@
           "meaning": "Please don't trouble yourself.",
           "examples": [],
           "notes": ""
+        },
+        {
+          "phrase": "[遠慮|えんりょ]なく",
+          "phrase_reading": "えんりょなく",
+          "meaning": "Without hesitation / Please help yourself.",
+          "examples": [],
+          "notes": "Used to tell someone to feel free and not hold back. Often follows どうぞ - as in どうぞ遠慮なく."
         }
       ]
     },
@@ -190,6 +204,18 @@
           "meaning": "I'm okay / No thanks.",
           "examples": [],
           "notes": "Ambiguous - can also be an affirmative 'I'm fine (yes)' depending on context. Pay attention to the situation."
+        }
+      ]
+    },
+    {
+      "category": "Gifts",
+      "entries": [
+        {
+          "phrase": "つまらないものですが",
+          "phrase_reading": "つまらないものですが",
+          "meaning": "It's a small thing, but... / This is nothing special, but...",
+          "examples": [],
+          "notes": "Said when presenting a gift in Japanese culture as an act of humility, regardless of the actual value of the gift. Using it is a sign of good manners rather than a literal description."
         }
       ]
     }

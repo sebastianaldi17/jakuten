@@ -7,9 +7,18 @@
       "verb": "行く / 来る / いる",
       "meaning": "to go / come / be",
       "examples": [
-        { "jp": "[先生|せんせい]は[明日|あした][学校|がっこう]にいらっしゃいますか。", "en": "Will the teacher be at school tomorrow?" },
-        { "jp": "[社長|しゃちょう]はどちらへいらっしゃいましたか。", "en": "Where did the company president go?" },
-        { "jp": "お[客様|きゃくさま]がいらっしゃいました。", "en": "A guest has arrived." }
+        {
+          "jp": "[先生|せんせい]は[明日|あした][学校|がっこう]にいらっしゃいますか。",
+          "en": "Will the teacher be at school tomorrow?"
+        },
+        {
+          "jp": "[社長|しゃちょう]はどちらへいらっしゃいましたか。",
+          "en": "Where did the company president go?"
+        },
+        {
+          "jp": "お[客様|きゃくさま]がいらっしゃいました。",
+          "en": "A guest has arrived."
+        }
       ]
     },
     {
@@ -17,9 +26,18 @@
       "verb": "食べる / 飲む",
       "meaning": "to eat / drink",
       "examples": [
-        { "jp": "どうぞお[菓子|かし]を[召し上がっ|めしあがっ]てください。", "en": "Please have some sweets." },
-        { "jp": "[先生|せんせい]はもうお[昼|ひる]を[召し上がり|めしあがり]ましたか。", "en": "Have you already had lunch, Sensei?" },
-        { "jp": "コーヒーと[紅茶|こうちゃ]、どちらを[召し上がり|めしあがり]ますか。", "en": "Which would you prefer, coffee or tea?" }
+        {
+          "jp": "どうぞお[菓子|かし]を[召し上がっ|めしあがっ]てください。",
+          "en": "Please have some sweets."
+        },
+        {
+          "jp": "[先生|せんせい]はもうお[昼|ひる]を[召し上がり|めしあがり]ましたか。",
+          "en": "Have you already had lunch, Sensei?"
+        },
+        {
+          "jp": "コーヒーと[紅茶|こうちゃ]、どちらを[召し上がり|めしあがり]ますか。",
+          "en": "Which would you prefer, coffee or tea?"
+        }
       ]
     },
     {
@@ -27,9 +45,18 @@
       "verb": "言う",
       "meaning": "to say",
       "examples": [
-        { "jp": "[何|なに]か[質問|しつもん]があればおっしゃってください。", "en": "Please say so if you have any questions." },
-        { "jp": "[先生|せんせい]がおっしゃったことをよく[覚|おぼ]えています。", "en": "I remember well what the teacher said." },
-        { "jp": "おっしゃる[通|とお]りです。", "en": "You are absolutely right." }
+        {
+          "jp": "[何|なに]か[質問|しつもん]があればおっしゃってください。",
+          "en": "Please say so if you have any questions."
+        },
+        {
+          "jp": "[先生|せんせい]がおっしゃったことをよく[覚|おぼ]えています。",
+          "en": "I remember well what the teacher said."
+        },
+        {
+          "jp": "おっしゃる[通|とお]りです。",
+          "en": "You are absolutely right."
+        }
       ]
     },
     {
@@ -37,9 +64,18 @@
       "verb": "見る",
       "meaning": "to look / see",
       "examples": [
-        { "jp": "この[資料|しりょう]をご[覧|らん]になってください。", "en": "Please take a look at this document." },
-        { "jp": "もうこの[映画|えいが]はご[覧|らん]になりましたか。", "en": "Have you already seen this movie?" },
-        { "jp": "こちらのカタログをご[覧|らん]になりますか。", "en": "Would you like to look at this catalogue?" }
+        {
+          "jp": "この[資料|しりょう]をご[覧|らん]になってください。",
+          "en": "Please take a look at this document."
+        },
+        {
+          "jp": "もうこの[映画|えいが]はご[覧|らん]になりましたか。",
+          "en": "Have you already seen this movie?"
+        },
+        {
+          "jp": "こちらのカタログをご[覧|らん]になりますか。",
+          "en": "Would you like to look at this catalogue?"
+        }
       ]
     },
     {
@@ -47,9 +83,18 @@
       "verb": "知っている",
       "meaning": "to know",
       "examples": [
-        { "jp": "[田中|たなか]さんをご[存知|ぞんじ]ですか。", "en": "Do you know Mr. Tanaka?" },
-        { "jp": "この[件|けん]についてはすでにご[存知|ぞんじ]でしょうか。", "en": "Are you already aware of this matter?" },
-        { "jp": "[新|あたら]しい[規則|きそく]はご[存知|ぞんじ]でしたか。", "en": "Were you aware of the new rules?" }
+        {
+          "jp": "[田中|たなか]さんをご[存知|ぞんじ]ですか。",
+          "en": "Do you know Mr. Tanaka?"
+        },
+        {
+          "jp": "この[件|けん]についてはすでにご[存知|ぞんじ]でしょうか。",
+          "en": "Are you already aware of this matter?"
+        },
+        {
+          "jp": "[新|あたら]しい[規則|きそく]はご[存知|ぞんじ]でしたか。",
+          "en": "Were you aware of the new rules?"
+        }
       ]
     },
     {
@@ -57,9 +102,18 @@
       "verb": "する",
       "meaning": "to do",
       "examples": [
-        { "jp": "[週末|しゅうまつ]は[何|なに]をなさいますか。", "en": "What will you do this weekend?" },
-        { "jp": "どのようにお[手続|てつづ]きをなさいますか。", "en": "How would you like to proceed with the procedure?" },
-        { "jp": "[社長|しゃちょう]は[何時|なんじ]ごろご[出発|しゅっぱつ]なさいますか。", "en": "Around what time will the president be departing?" }
+        {
+          "jp": "[週末|しゅうまつ]は[何|なに]をなさいますか。",
+          "en": "What will you do this weekend?"
+        },
+        {
+          "jp": "どのようにお[手続|てつづ]きをなさいますか。",
+          "en": "How would you like to proceed with the procedure?"
+        },
+        {
+          "jp": "[社長|しゃちょう]は[何時|なんじ]ごろご[出発|しゅっぱつ]なさいますか。",
+          "en": "Around what time will the president be departing?"
+        }
       ]
     },
     {
@@ -67,10 +121,99 @@
       "verb": "くれる",
       "meaning": "to give (to me/us)",
       "examples": [
-        { "jp": "ご[連絡|れんらく]くださってありがとうございます。", "en": "Thank you for contacting me." },
-        { "jp": "[先生|せんせい]が[丁寧|ていねい]に[説明|せつめい]してくださいました。", "en": "The teacher kindly explained it for me." },
-        { "jp": "ご[意見|いけん]をくださった[方|かた]に[感謝|かんしゃ]いたします。", "en": "I am grateful to those who gave us their feedback." }
+        {
+          "jp": "ご[連絡|れんらく]くださってありがとうございます。",
+          "en": "Thank you for contacting me."
+        },
+        {
+          "jp": "[先生|せんせい]が[丁寧|ていねい]に[説明|せつめい]してくださいました。",
+          "en": "The teacher kindly explained it for me."
+        },
+        {
+          "jp": "ご[意見|いけん]をくださった[方|かた]に[感謝|かんしゃ]いたします。",
+          "en": "I am grateful to those who gave us their feedback."
+        }
       ]
+    },
+    {
+      "sonkeigo": "[召|め]す",
+      "verb": "着る / 食べる・飲む / 風邪をひく",
+      "meaning": "to wear / eat / drink / catch a cold",
+      "examples": [
+        {
+          "jp": "どうぞお[好|す]きなものを[召|め]し[上|あ]がってください。",
+          "en": "Please help yourself to whatever you like."
+        },
+        {
+          "jp": "お[風邪|かぜ]を[召|め]されたとのこと、お[大事|だいじ]になさってください。",
+          "en": "I heard you have caught a cold - please take care of yourself."
+        },
+        {
+          "jp": "[先生|せんせい]が[召|め]しているコートはとても[素敵|すてき]ですね。",
+          "en": "The coat the teacher is wearing is very nice."
+        }
+      ],
+      "notes": "A versatile but quite formal sonkeigo verb. 召し上がる is more commonly used for eating and drinking in everyday speech. お風邪を召す is a fixed set expression."
+    },
+    {
+      "sonkeigo": "[見|み]える／お[見|み]えになる",
+      "verb": "来る",
+      "meaning": "to come / arrive (of a guest or superior)",
+      "examples": [
+        {
+          "jp": "お[客様|きゃくさま]がお[見|み]えになりました。",
+          "en": "The guest has arrived."
+        },
+        {
+          "jp": "[部長|ぶちょう]はもうお[見|み]えになりましたか。",
+          "en": "Has the manager arrived yet?"
+        },
+        {
+          "jp": "[社長|しゃちょう]が[見|み]えるまでこちらでお[待|ま]ちください。",
+          "en": "Please wait here until the president arrives."
+        }
+      ],
+      "notes": "Used specifically when a guest or superior comes to a place. 見える is the plain honorific form; お見えになる adds an extra layer of politeness."
+    },
+    {
+      "sonkeigo": "おいでになる",
+      "verb": "いる / 来る / 行く",
+      "meaning": "to be / come / go",
+      "examples": [
+        {
+          "jp": "[先生|せんせい]は[今|いま]おいでになりますか。",
+          "en": "Is the teacher here right now?"
+        },
+        {
+          "jp": "[明日|あした]もこちらにおいでになりますか。",
+          "en": "Will you be coming here tomorrow as well?"
+        },
+        {
+          "jp": "どちらにおいでになりますか。",
+          "en": "Where are you going?"
+        }
+      ],
+      "notes": "Covers the same three verbs as いらっしゃる but is slightly more formal. In practice, いらっしゃる is more common in everyday speech while おいでになる tends to appear in formal writing or very polite situations."
+    },
+    {
+      "sonkeigo": "お[越|こ]しになる",
+      "verb": "来る",
+      "meaning": "to come / visit (formal)",
+      "examples": [
+        {
+          "jp": "わざわざお[越|こ]しいただきありがとうございます。",
+          "en": "Thank you for taking the trouble to come."
+        },
+        {
+          "jp": "ぜひ[一度|いちど]お[越|こ]しください。",
+          "en": "Please do come visit us sometime."
+        },
+        {
+          "jp": "またのお[越|こ]しをお[待|ま]ちしております。",
+          "en": "We look forward to your next visit."
+        }
+      ],
+      "notes": "More formal than いらっしゃる and typically used in written invitations, shop signage, or formal announcements. またのお越しをお待ちしております is a very common closing phrase in service contexts."
     }
   ],
   "patterns": [
@@ -78,9 +221,18 @@
       "pattern": "お〜になる",
       "rule": "o + (verb stem) + ni naru to make other verbs honorific when no dedicated sonkeigo form exists",
       "examples": [
-        { "jp": "[部長|ぶちょう]はもうお[帰|かえ]りになりました。", "en": "The manager has already gone home." },
-        { "jp": "[社長|しゃちょう]はすでにお[読|よ]みになりましたか。", "en": "Has the president already read it?" },
-        { "jp": "[先生|せんせい]がお[書|か]きになった[本|ほん]です。", "en": "This is a book that the teacher wrote." }
+        {
+          "jp": "[部長|ぶちょう]はもうお[帰|かえ]りになりました。",
+          "en": "The manager has already gone home."
+        },
+        {
+          "jp": "[社長|しゃちょう]はすでにお[読|よ]みになりましたか。",
+          "en": "Has the president already read it?"
+        },
+        {
+          "jp": "[先生|せんせい]がお[書|か]きになった[本|ほん]です。",
+          "en": "This is a book that the teacher wrote."
+        }
       ]
     }
   ]
